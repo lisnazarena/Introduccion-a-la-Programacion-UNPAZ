@@ -1,0 +1,13 @@
+Realizar un programa en el lenguaje Python que le permita al supervisor de una fabrica ingresar la cantidad de horas trabajadas en el mes de un empleado y, teniendo en cuenta que el precio bruto por hora es de $9576, calcule el sueldo neto del empleado para ese mes. 
+
+Se debe tener en cuenta que se aplica un descuento del 11.5% de aportes jubilatorios y un descuento del 4.5% de aportes a la obra social.
+
+En caso de que el sueldo bruto mensual esté entre los $700000 y los $800000 se debe aplicar también un descuento del 6% de impuesto a las ganancias, pero si el sueldo bruto mensual es superior a $800000 el porcentaje de impuesto a las ganancias a descontar es del 10%
+
+El programa debe mostrar por pantalla el recibo de sueldo para el empleado con los siguientes datos:
+
+Sueldo bruto
+Descuento por jubilación
+Descuento por obra social
+Descuento por impuesto a las ganancias (en caso de que aplique)
+Sueldo neto a cobrar
