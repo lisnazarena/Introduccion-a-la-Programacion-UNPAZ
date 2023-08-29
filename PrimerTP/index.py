@@ -1,5 +1,3 @@
-
-
 horasTrabajadas = int(input('Ingrese cantidad de horas trabajadas: '))
 sueldoBruto = 9576 * horasTrabajadas
 

@@ -1,3 +1,4 @@
+CONSIGNA:
 Realizar un programa en el lenguaje Python que le permita al supervisor de una fabrica ingresar la cantidad de horas trabajadas en el mes de un empleado y, teniendo en cuenta que el precio bruto por hora es de $9576, calcule el sueldo neto del empleado para ese mes. 
 
 Se debe tener en cuenta que se aplica un descuento del 11.5% de aportes jubilatorios y un descuento del 4.5% de aportes a la obra social.
